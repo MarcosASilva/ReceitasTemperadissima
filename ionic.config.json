@@ -1,0 +1,7 @@
+{
+  "name": "appReceitas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
